@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Brian Montagna
+## Welcome to Brian's GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/bpm5606/Stat184_Practice/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
